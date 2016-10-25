@@ -1,4 +1,4 @@
 # hello-world
-Guide on creating repositories
+Following guide on creating repositories
 
-NOw I'm making change to the readme-edit branch.
+Barely trying out github basic features.
